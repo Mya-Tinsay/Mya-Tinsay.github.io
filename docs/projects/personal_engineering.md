@@ -1,5 +1,6 @@
 ---
 title: Personal Engineering
+format: home
 parent: projects
 nav_order: 2
 ---
