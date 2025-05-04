@@ -1,7 +1,7 @@
 ---
-title: Home
+title: Projects
 layout: home
-nav_order: 1
+nav_order: 2
 ---
 
-Hi,
+PROJECTS
