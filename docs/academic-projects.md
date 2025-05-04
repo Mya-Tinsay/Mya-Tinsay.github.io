@@ -1,6 +1,7 @@
 ---
 title: Academic Projects
-nav_order: 1
+layout: home
+nav_order: 2
 ---
 
 # Academic Projects
