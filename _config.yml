@@ -6,3 +6,21 @@ url: https://Mya-Tinsay.github.io/Mya-Tinsay.github.io
 
 aux_links:
   Template Repository: https://github.com/Mya-Tinsay/Mya-Tinsay.github.io
+
+nav:
+  - title: "Projects"
+    children:
+      - title: "Academic Projects"
+        url: /academic-projects
+      - title: "Personal Engineering"
+        url: /personal-projects
+      - title: "Creative Work"
+        url: /creative-projects
+  - title: "Experience"
+    children:
+      - title: "TURTLE Robotics"
+        url: /turtle
+      - title: "SASE Leadership"
+        url: /sase
+  - title: "About"
+    url: /about
