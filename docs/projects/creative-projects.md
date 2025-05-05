@@ -1,6 +1,6 @@
 ---
 title: Creative Projects
-format: home
+layout: home
 parent: projects
 nav_order: 3
 ---
