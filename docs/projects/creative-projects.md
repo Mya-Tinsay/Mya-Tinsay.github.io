@@ -1,7 +1,7 @@
 ---
 title: Creative Projects
 layout: home
-parent: projects
+parent: Projects
 nav_order: 3
 ---
 
