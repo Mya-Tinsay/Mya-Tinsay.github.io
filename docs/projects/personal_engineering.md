@@ -1,7 +1,7 @@
 ---
 title: Personal Engineering
 layout: home
-parent: projects
+parent: Projects
 nav_order: 2
 ---
 
