@@ -33,3 +33,4 @@ I'm currently leading the electrical team for the **TURTLE Robotics Team**, wher
   Hands-on experience with fluid power, metrology, and CNC machining.
 
 [View my full resume (PDF)](assets/22_Apr_2025_Tinsay, Mya Resume.pdf)
+[22_Apr_2025_Tinsay, Mya Resume.pdf](https://github.com/user-attachments/files/20030956/22_Apr_2025_Tinsay.Mya.Resume.pdf)
