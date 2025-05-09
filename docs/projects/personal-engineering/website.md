@@ -2,7 +2,6 @@
 title: Building This Website
 layout: default
 permalink: /projects/personal-engineering/building-this-website/
-<! nav_exclude: true
 ---
 
 # Building This Website
