@@ -1,6 +1,7 @@
 ---
 title: Building This Website
 layout: default
+nav_exclude: true
 ---
 
 # Building This Website
