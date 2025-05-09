@@ -28,7 +28,6 @@ I wanted a simple, clean platform where I could present projects in a way that f
 - Set up a GitHub Pages repository with the [Just the Docs](https://just-the-docs.github.io/just-the-docs/) Jekyll theme
 - Customized `_config.yml` for navigation and styling
 - Wrote Markdown files for project documentation and blog-style updates
-- Used permalinks to structure URLs clearly and consistently
 - Iteratively tested the site using `jekyll serve` locally before pushing updates
 
 ---
