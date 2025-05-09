@@ -9,6 +9,8 @@ nav_order: 1
 
 These projects represent coursework and academic competitions I've completed at Texas A&M. They demonstrate my skills in engineering design, team collaboration, and applied problem-solving in structured environments.
 
+---
+
 ## Projects
 
 ### [Robotic Arm Control System](/projects/academic-projects/robotic-arm-control-system/)
