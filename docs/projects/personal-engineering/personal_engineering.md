@@ -11,7 +11,7 @@ This page showcases self-driven engineering projects I've pursued outside of cla
 
 ## Projects
 
-### [Building This Website](/website.md)
+### [Building This Website](/docs/projects/personal-engineering/website.md)
 A personal portfolio site built with Jekyll and GitHub Pages to document and share my work with others.
 
 <!-- Add more projects below in a similar format -->
