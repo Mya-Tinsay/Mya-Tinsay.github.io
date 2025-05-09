@@ -1,7 +1,6 @@
 ---
 title: Building This Website
 layout: default
-permalink: /projects/personal-engineering/building-this-website/
 ---
 
 # Building This Website
