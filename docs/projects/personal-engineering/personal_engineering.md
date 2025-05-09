@@ -2,7 +2,6 @@
 title: Personal Engineering
 layout: default
 parent: Projects
-permalink: /funny
 nav_order: 2
 ---
 
