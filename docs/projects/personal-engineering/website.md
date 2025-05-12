@@ -41,4 +41,4 @@ I wanted a simple, clean platform where I could present projects in a way that f
 
 ---
 
-[← Back to Personal Engineering](/projects/personal-engineering/)
+[← Back to Personal Engineering](/docs/projects/personal-engineering/personal-engineering.html)

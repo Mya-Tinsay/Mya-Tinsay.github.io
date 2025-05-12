@@ -13,7 +13,7 @@ These projects represent coursework and academic competitions I've completed at 
 
 ## Projects
 
-### [Robotic Arm Control System](/projects/academic-projects/robotic-arm-control-system/)
+### [ESET 349 CatJack Assembly Project](/docs/projects/academic-projects/ESET349.html)
 A control system for a 4-DOF robotic arm using inverse kinematics and real-time motor feedback.
 
 ### [MATLAB Water Filtration Simulation](/projects/academic-projects/water-filtration-simulation/)
