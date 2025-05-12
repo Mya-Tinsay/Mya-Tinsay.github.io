@@ -25,6 +25,14 @@ I wanted a simple, clean platform where I could present projects in a way that f
 
 ## 🚧 Development Process
 
+**Initial Stages**
+- Figure out Github Pages
+- Find Template
+- Figure out main structure (Home, Projects, Blog Posts)
+- Download Ruby/Jekyll and Github to learn how to clone and locally make changes before "pushing"
+- Creating Blank Pages for each project I've decided on creating
+
+
 - Set up a GitHub Pages repository with the [Just the Docs](https://just-the-docs.github.io/just-the-docs/) Jekyll theme
 - Customized `_config.yml` for navigation and styling
 - Wrote Markdown files for project documentation and blog-style updates

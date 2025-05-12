@@ -1,14 +1,14 @@
 ---
-title: ESET 349
+title: MMET 361 Pet Feeder
 layout: default
 nav_exclude: true
 ---
 
-# Blackjack game on STM32F401RE with LCD Display
+# 3D-Printed Modular Pet Feeder
 
 ## Overview
 
-it's black jack. but with a cat
+Made a simple pet feeder
 
 ---
 
@@ -20,7 +20,7 @@ Rubrics
 
 ## Initial Ideas
 
-we thought we could do a fancy cat and currency
+We made different similar designs
 
 ---
 
@@ -32,7 +32,7 @@ erm. problems arised
 
 ## Final Product
 
-it's very cute
+it works! Now I'm looking into making an automatic fish feeder
 
 ---
 

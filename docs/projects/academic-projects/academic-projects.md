@@ -13,11 +13,12 @@ These projects represent coursework and academic competitions I've completed at 
 
 ## Projects
 
-### [ESET 349 CatJack Assembly Project](/docs/projects/academic-projects/ESET349.html)
-A control system for a 4-DOF robotic arm using inverse kinematics and real-time motor feedback.
+### [Blackjack game on STM32F401RE with LCD Display](/docs/projects/academic-projects/ESET349.html)
+Worked with one teammate to develop a fully functional blackjack game in ARM assembly using an STM32F401RE microcontroller and a 20x4 character LCD screen. Designed player input logic, random number generation, and display management for an interactive game experience. Demonstrated low-level programming, GPIO control, and real-time user interface development on embedded hardware.  
+*Project for ESET 349: Microcontroller Architecture*
 
-### [MATLAB Water Filtration Simulation](/projects/academic-projects/water-filtration-simulation/)
-A simulation of membrane filtration dynamics using MATLAB to visualize pressure drops and contaminant separation.
+### [3D-Printed Modular Pet Feeder](/docs/projects/academic-projects/MMET361.html)
+Led a team of four to design and prototype a modular pet feeder composed of three interlocking 3D-printed parts. Coordinated rapid design iterations using a teammate’s personal 3D printer to optimize part fit, tolerances, and assembly features. Integrated locating features and interference fits to meet functional requirements and ensure consistent performance. The final assembly functioned flawlessly during demonstration and earned a 100% evaluation.  
+*Project for MMET 361: Introduction to Manufacturing Processes*
 
-### [Aggies Invent: Pipe Filter for Carbon Capture](/projects/academic-projects/carbon-pipe-filter/)
-A 48-hour rapid prototyping competition where my team designed and pitched a modular filter for industrial carbon capture.
+### [Crank-Slider Prototype](/docs/projects/academic-projects/MXET375.html)
