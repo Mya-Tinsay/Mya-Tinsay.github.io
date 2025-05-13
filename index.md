@@ -4,6 +4,8 @@ layout: home
 nav_order: 1
 ---
 
+# [TEST](/blog/website)
+
 Hi, I'm **Mya Tinsay** — a Mechatronics student at Texas A&M University with a passion for hands-on design, embedded systems, and robotics.
 
 I'm currently leading the electrical team for the **TURTLE Robotics Team**, where we’re building an aeroponic system with custom electronics. I also serve as the Treasurer for our campus chapter of the **Society of Asian Scientists and Engineers (SASE)**, where I help manage logistics for events and conferences.

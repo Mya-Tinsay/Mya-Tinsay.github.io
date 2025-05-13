@@ -2,6 +2,7 @@
 title: Building This Website
 layout: default
 nav_exclude: true
+permalink: /personal-engineering/website
 ---
 
 # Building This Website
@@ -49,4 +50,4 @@ I wanted a simple, clean platform where I could present projects in a way that f
 
 ---
 
-[← Back to Personal Engineering](/docs/projects/personal-engineering/personal-engineering.html)
+[← Back to Personal Engineering](/personal-engineering)

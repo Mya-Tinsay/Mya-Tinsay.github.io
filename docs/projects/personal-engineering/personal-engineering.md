@@ -3,6 +3,7 @@ title: Personal Engineering
 layout: default
 parent: Projects
 nav_order: 2
+permalink: /personal-engineering
 ---
 
 # Personal Engineering Projects
@@ -11,7 +12,7 @@ This page showcases self-driven engineering projects I've pursued outside of cla
 
 ## Projects
 
-### [Building This Website](/docs/projects/personal-engineering/website.html)
+### [Building This Website](/personal-engineering/website)
 A personal portfolio site built with Jekyll and GitHub Pages to document and share my work with others.
 
 <!-- Add more projects below in a similar format -->

@@ -2,6 +2,7 @@
 title: ESET 349
 layout: default
 nav_exclude: true
+permalink: /academic-projects/blackjack
 ---
 
 # Blackjack game on STM32F401RE with LCD Display
@@ -36,5 +37,5 @@ it's very cute
 
 ---
 
-[← Back to Academic Projects](/docs/projects/academic-projects/academic-projects.html)
+[← Back to Academic Projects](/academic-projects)
 

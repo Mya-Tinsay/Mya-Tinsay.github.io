@@ -2,6 +2,7 @@
 title: MXET 375
 layout: default
 nav_exclude: true
+permalink: /academic-projects/crank-slider
 ---
 
 # Crank-Slider Prorotype
@@ -36,4 +37,4 @@ words
 
 ---
 
-[← Back to Academic Projects](/docs/projects/academic-projects/academic-projects.html)
+[← Back to Academic Projects](/academic-projects)
