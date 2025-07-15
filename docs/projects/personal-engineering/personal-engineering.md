@@ -15,6 +15,9 @@ This page showcases self-driven engineering projects I've pursued outside of cla
 ### [Building This Website](/personal-engineering/website)
 A personal portfolio site built with Jekyll and GitHub Pages to document and share my work with others.
 
+### [Converting an Electric Drum Set](/personal-engineering/electric-drums)
+Converting an old Guitar Hero drum set into a MIDI-compatible electronic drum set. 
+
 <!-- Add more projects below in a similar format -->
 
 <!-- Example -->
