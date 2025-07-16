@@ -25,6 +25,10 @@ After researching, I found that many hobbyists convert gaming drum kits into MID
 ## Milestones 
 
 This project is still in progress, but a majority of the work has been completed. 
+- Taken apart the kit and diagnosed the original problem: corroded jack connectors for the cymbol and crash pads
+- I've referenced [This Video](https://archive.org/details/evan-kale-youtube-archive/Arduino+Drum+MIDI+_+Rock+Band+Guitar+Hero+Mod-vi-w_WqJjzQ.mkv) for a majority of the planning. 
+- He gives a great explanation of how his set-up works, but relatively poor documentation of what he actually did. 
+
 
 **Key Contributions Include:**
 - The original problem with the kit was the corroded jack plugs for the cymbol and crash pads
